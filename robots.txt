@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipaxaoxa.github.io/HXr/sitemap_index.txt
+Sitemap: https://ipaxaoxa.github.io/pJL/sitemap_index.txt
+Sitemap: https://ipaxaoxa.github.io/vqE/sitemap_index.txt
+Sitemap: https://ipaxaoxa.github.io/xuM/sitemap_index.txt
